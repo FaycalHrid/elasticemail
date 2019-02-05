@@ -14,6 +14,7 @@
         {
             echo 'Something went wrong: ', $e->getMessage(), '\n';
             
+            
             return;
         }		
         
